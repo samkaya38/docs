@@ -1,0 +1,49 @@
+Best Practices for Integrations
+
+Integrations will fail!
+
+So start applying Integration Lifecycle Management:
+
+Capture
+Design
+Develop
+Deploy
+Manage
+
+Capture:
+Amount
+Timing
+Batches
+Size
+Guaranteed Delivery
+Order
+Security
+Protocol
+Data format
+Transport mechanism
+Versioning
+Encoding
+Mapping
+Translating
+Documentatie: definitie/example messages
+
+
+
+
+Logging
+
+Error handling
+
+Security
+
+App services
+referentie
+
+Performance
+
+API Versioning
+
+Integration patterns
+
+Messaging solutions
+
